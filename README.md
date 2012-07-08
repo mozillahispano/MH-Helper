@@ -1,4 +1,7 @@
-This is the ReMo Companion add-on. You can build it with the Add-ons SDK,
+Original work
+===========
+
+This is a fork to adapt the ReMo extension (from @brianking) to Mozilla Hispano needs. You can build it with the Add-ons SDK,
 available for download at:
 https://addons.mozilla.org/developers/builder 
 
